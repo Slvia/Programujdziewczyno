@@ -89,6 +89,7 @@ nav {
   font-size: 6rem;
 }
 
+
 .tasks-btn {
   background-color: #fff;
   padding: 1.5rem 3rem;
@@ -180,6 +181,7 @@ nav {
 .plan-description {
   height: 70rem;
   margin-top: 4rem;
+  font-weight: 800;
 }
 
 .plan-description h3 {
